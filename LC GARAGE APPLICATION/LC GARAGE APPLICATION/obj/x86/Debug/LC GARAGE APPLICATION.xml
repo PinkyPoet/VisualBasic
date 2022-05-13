@@ -1,0 +1,256 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LC GARAGE APPLICATION
+</name>
+</assembly>
+<members>
+<member name="T:LC_GARAGE_APPLICATION.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:LC_GARAGE_APPLICATION.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:LC_GARAGE_APPLICATION.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet.loginDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet.stockDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet.staffDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet.bookingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet.decisionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet.returnAssesmentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet.serviceCalculationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet.adminloginDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet.dbmanagerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet.loginRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet.stockRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet.staffRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet.bookingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet.decisionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet.returnAssesmentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet.serviceCalculationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet.adminloginRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet.dbmanagerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet.loginRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet.stockRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet.staffRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet.bookingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet.decisionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet.returnAssesmentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet.serviceCalculationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet.adminloginRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet.dbmanagerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSetTableAdapters.loginTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSetTableAdapters.stockTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSetTableAdapters.staffTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSetTableAdapters.bookingTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSetTableAdapters.decisionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSetTableAdapters.returnAssesmentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSetTableAdapters.serviceCalculationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSetTableAdapters.adminloginTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSetTableAdapters.dbmanagerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:LC_GARAGE_APPLICATION.LCDatabaseDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(LC_GARAGE_APPLICATION.LCDatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:LC_GARAGE_APPLICATION.LCDatabaseDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(LC_GARAGE_APPLICATION.LCDatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:LC_GARAGE_APPLICATION.LCDatabaseDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(LC_GARAGE_APPLICATION.LCDatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:LC_GARAGE_APPLICATION.LCDatabaseDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:LC_GARAGE_APPLICATION.LCDatabaseDataSetTableAdapters.TableAdapterManager.UpdateAll(LC_GARAGE_APPLICATION.LCDatabaseDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:LC_GARAGE_APPLICATION.LCDatabaseDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>
